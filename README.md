@@ -1,1 +1,2 @@
 # Proyecto Kanban
+Pablo Ripoll
